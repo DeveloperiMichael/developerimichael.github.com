@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>曾静的技术博客</title>
-    <description>嗨，我是曾静 (@devzeng)，目前暂居深圳。</description>
+    <title>DeveloperMichael的技术博客</title>
+    <description>嗨，我是DeveloperMichael，目前暂居杭州。</description>
     <link>http://blog.devzeng.com/</link>
     <atom:link href="http://blog.devzeng.com/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Fri, 05 May 2017 14:03:22 +0800</pubDate>
